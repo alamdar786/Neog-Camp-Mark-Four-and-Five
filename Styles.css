@@ -39,3 +39,5 @@ body {
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 }
+
+/** Look into BEM naming convention for CSS **/

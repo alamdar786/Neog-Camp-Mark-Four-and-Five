@@ -10,6 +10,10 @@ body {
 
 }
 
+hr {
+    margin: 2rem 0rem;
+}
+
 /** Container **/
 
 .container {
@@ -41,3 +45,4 @@ body {
 }
 
 /** Look into BEM naming convention for CSS **/
+

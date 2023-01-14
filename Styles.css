@@ -160,6 +160,7 @@ hr {
 
 .footer .link {
     color: white;
+    text-decoration-line: underline;
 }
 
 .footer .footer-header {

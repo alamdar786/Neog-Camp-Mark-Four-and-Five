@@ -201,3 +201,39 @@ hr {
 .blog p {
     margin-bottom: 2rem;
 }
+
+
+/** Blog Heading **/
+
+.blog-heading {
+    text-align: center;
+}
+
+.blog-heading .hero-heading {
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+
+.blog-heading .hero-img {
+    max-width: 700px;
+    display: block;
+    margin: 3rem auto;
+    border-radius: 8px;
+}
+
+/** Blog Content **/
+
+
+.blog-content {
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+
+}
+
+.last-blog-content {
+    padding-top: 0.5rem;
+    padding-bottom: 5rem;
+
+}
